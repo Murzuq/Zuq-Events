@@ -20,8 +20,8 @@ Zuq Events is a modern, feature-rich event management application built with Rea
 - **Frontend:** [React](https://reactjs.org/)
 - **Data Fetching & State Management:** [Tanstack Query (React Query)](https://tanstack.com/query/v4)
 - **Routing:** [React Router DOM](https://reactrouter.com/)
-- **Styling:** _(e.g., CSS Modules, Tailwind CSS, Styled Components)_
-- **Development Tooling:** _(e.g., Vite, Create React App)_
+- **Styling:** Vanilla CSS
+- **Development Tooling:** Vite
 
 ## 🚀 Getting Started
 

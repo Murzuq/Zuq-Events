@@ -1,6 +1,6 @@
 # Zuq Events
 
-[![React](https://img.shields.io/badge/React-18.x-blue.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/React-v19-blue.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Tanstack Query](https://img.shields.io/badge/Tanstack%20Query-v5-FF4154?style=for-the-badge&logo=react-query)](https://tanstack.com/query/v5)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
@@ -39,13 +39,13 @@ Make sure you have the following installed on your system:
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/zuq-events.git
+    git clone https://github.com/Murzuq/Zuq-Events.git
     ```
 
 2.  **Navigate to the project directory**
 
     ```bash
-    cd zuq-events
+    cd Zuq-Events
     ```
 
 3.  **Install dependencies**

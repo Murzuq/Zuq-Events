@@ -4,7 +4,7 @@
 [![Tanstack Query](https://img.shields.io/badge/Tanstack%20Query-v4-FF4154?style=for-the-badge&logo=react-query)](https://tanstack.com/query/v4)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-Zuq Events is a modern, feature-rich event management application built with React. It leverages the power of Tanstack Query for efficient data fetching, caching, and state management, providing a seamless and responsive user experience.
+Zuq Events is a modern, feature rich event management application built with React. It leverages the power of Tanstack Query for efficient data fetching, caching, and state management, providing a seamless and responsive user experience.
 
 ## ✨ Features
 
